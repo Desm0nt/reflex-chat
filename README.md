@@ -11,7 +11,7 @@ A user-friendly, highly customizable Python web app designed to demonstrate LLMs
 ### 🧬 1. Clone the Repo
 
 ```
-git clone https://github.com/reflex-dev/reflex-chat.git
+git clone https://github.com/Desm0nt/reflex-chat.git
 ```
 ### 📦 2. Install Reflex
 To get started with Reflex, you'll need:
